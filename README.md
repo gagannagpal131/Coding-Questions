@@ -1,2 +1,3 @@
 # Coding-Questions
-Some Common Coding problems along with their code
+Some Coding problems with solutions<br/>
+--> Data Structures and Algorithms <--
